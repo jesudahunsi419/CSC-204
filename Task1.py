@@ -1,4 +1,4 @@
-print("Hello world")
+
 from nodes.node import Node
 
 class SingleLinkedList:
